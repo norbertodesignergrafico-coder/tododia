@@ -1,0 +1,8 @@
+{
+  "name": "Todo Dia",
+  "description": "Uma ferramenta de planejamento e execução. Avalie o passado, defina metas SMART e acompanhe seus KPIs diariamente.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
