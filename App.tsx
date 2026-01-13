@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect, useRef } from 'react';
 import { AuditData, SmartGoal, VisionBoardItem, Habit, AppView } from './types';
 import { Welcome } from './views/Welcome';
